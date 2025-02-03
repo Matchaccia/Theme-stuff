@@ -1,0 +1,42 @@
+/**
+ * @name Custom FVUI v2
+ * @author FeoreV
+ * @version 2.0.0
+ * @description Blur is the new black
+ * @source https://github.com/FeoreV/Themes/tree/main/Discord/FVUI
+ * @invite baEMQkgswT
+ * @website https://feorev.github.io/
+ * @authorId 489785940546551831
+ * @BDEditor FVUI
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap%27');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Cores/preload.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/assets/SubThemes/CustomBackground.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/Events/Events.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/ServerRings.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/RadialStatus.css');
+@import url('https://feorev.github.io/Themes/Discord/FVUI/Addons/HSL/HSL_top.css');
+
+:root {
+  --undefined: 0;
+  --color1: 33,113,67;
+  --color2: 9, 18, 24;
+  --color3: 217,125,217;
+  --undefined: 0;
+  --ColorOpacity: 1;
+  --DisableOpacity: 0;
+  --cursor: url('https://feorev.github.io/Themes/Discord/FVUI/assets/Cursor.cur');
+  --font: Comfortaa;
+  --homeicon: url('https://github.com/Matchaccia/Theme-stuff/blob/main/VRChat_2024-12-12_20-09-14.546_1920x1080_wrld_4cf554b4-430c-4f8f-b53e-1f294eed230b_cropped.png?raw=true');
+  --undefined: 0;
+  --FVUI: CustomFVUI;
+  --customdesc: "";
+  --image: url('https://github.com/Matchaccia/Theme-stuff/blob/main/vrchatfortheme.png?raw=true');
+  --OpacityBG: 60%;
+  --BlurBG: 0px;
+}
+
+/* Any custom CSS below here */
+
+
