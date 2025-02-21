@@ -1,46 +1,6 @@
 /*---------------------------------------------------------------
-Hi im LemonTarrt (Doofusmcgee) and frankly im so sorry that this 
-code is nuts. This is just a new hobby for me (ADHD frrr) :3 
+Theme made by Zuzumi, fixed by LemonTarrt and customized by Matcha
 ---------------------------------------------------------------*/
-
-/*---------------------------------------------------------------
-Ive tried to organise and label the code as much as possible so 
-that every bit is customisable that said this is super customised
-so ill put in some notes on what/how to change things a certain way
-so that you can make it your own easily. Just ping me in zuzumis 
-if u have any questions or notice any issues and Ill do my best 
-to help/solve it.
-
-Note: Any elements structure like ".xxx, .yyyy" Can be separated 
-into new lines to customise the elements colour.
-
-Different plugins that you have enables may need to be manually
-CSS'd, The ones I have enabled and should be included in this code
-are: 
-
-Always animate, AnonymiseFileNames, BetterSettings, 
-BiggerStreamPreview, CallTimer, ClearURLs, CrashHandler,
-DontRoundMyTimestamps, EmoteCloner, FakeNitro, FakeProfile, 
-FakeProfileThemes, FixYoutubeEmbeds, GifPaste, IgnoreActivities,
-ImageZoom, MemberCount, MentionAvatar, MoreKaomoji, Oneko (cannot
-recolour), petpet, PinDms, ReadAllNotificationsButton, 
-RelationshipNotifier, RoleColorEverywhere, StickerPaste, 
-TypingIndicator, VencordToolbox, WhoReacted and YoutubeAdblock.
-
-Its fairly easy to code small changes in css as long as you
-can find the element name using the inspect tool (ctrl+Shift+I).
-Just copy the format as you see in this code and if u have
-trouble just @ me :3
-
-There are still some root values that wont update across all facets
-so ive been bashing my head in figuring out how to keep this code
-"simple" but effective. The asnwer is yes :]
-If you can live wiht some text being greyish - awesome!, If not
-youll need to locate the individual element name and adjust the
-colour. I may tidy and finish it all up/figure out a way how 
-to root it properly but until then this will do. 
----------------------------------------------------------------*/
-
 
 /*---------------------------------------------------------------
                   MAIN THEME DO NOT DELETE
