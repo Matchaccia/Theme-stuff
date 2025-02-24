@@ -25,6 +25,17 @@ Theme made by Zuzumi, fixed by LemonTarrt and customized by Matcha
 ---------------------------------------------------------------*/
 @import url('https://shadowdevilsavenged.github.io/SnippetsHere/Zuzumi-Server-List-And-Members-Position-TempFix.css');
 
+/*---------------------------------------------------------------
+                        Custom Settings
+---------------------------------------------------------------*/
+
+@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css);
+:root {
+	--settingswidth: 	960;			/* default:	960px			(width of the settings modal, px)												*/
+	--settingsheight: 	80;			/* default:	80vh			(height of the settings modal, vh)												*/
+	--settingsbackground: 	url("https://github.com/Matchaccia/Theme-stuff/blob/main/Settingsthemebunny.gif?raw=true");		/* default:	transparent		(lowest BG Color of changed Windows, change it in case another Theme turns them transparent)					*/ 
+}
+
 /*------------------------------------------------------
                     CUSTOMISATION
 ------------------------------------------------------*/
@@ -87,9 +98,8 @@ Theme made by Zuzumi, fixed by LemonTarrt and customized by Matcha
     --brand-500: #7e3652 !important;
     --black-500: #ffffff !important;
     --interactive-normal:#ffffff !important;
-    --mentioned-color: 199, 100%, 79%; /* HSL Values Only */
+    --mentioned-color: 135, 100%, 89%; /* HSL Values Only */
     --text-muted-on-default: #ffffff;
-	--homeicon: url("https://raw.githubusercontent.com/Matchaccia/Theme-stuff/refs/heads/main/VRChat_2024-12-12_20-09-14.546_1920x1080_wrld_4cf554b4-430c-4f8f-b53e-1f294eed230b_cropped.png");
 
     /* MORE TEXT ROOTS TO BE ADDED :3 HELP ME OH MYGOD*/
 
@@ -99,7 +109,7 @@ Theme made by Zuzumi, fixed by LemonTarrt and customized by Matcha
     --status-positive: #9bf889; /* Call ping good */
     --status-warning: #dad197; /* Call ping poor THIS IS WIP AS I NEED MY INTERNET TO BE BAD TO GET THESE*/
     --status-danger: #f09494; /* Call ping bad THIS IS WIP AS I NEED MY INTERNET TO BE BAD TO GET THESE*/
-    --status-speaking: #ace584;
+    --status-speaking: #DAFFDD;
    
 
   /* CUSOTMISE WINBUTTONS */
@@ -528,7 +538,7 @@ button[aria-label="Send a gift"] {
 ---------------------------------------------------------------*/
 /* Server Selected*/
 .modeSelected__2ea32 .link__2ea32, .modeSelected__2ea32:hover .link__2ea32 {
-  background-color: hsl(199, 61%, 72%, 0.753);
+  background-color: hsl(135, 100%, 89%, 0.753);
 }
 
 /* Server Hover */
@@ -538,7 +548,7 @@ button[aria-label="Send a gift"] {
 
 /* DM Selected */
 .interactiveSelected__972a0, .interactiveSelected__972a0:hover {
-  background-color: hsl(199, 61%, 72%, 0.753);
+  background-color: hsl(135, 100%, 89%, 0.753);
 }
 
 /* DM Hover */
@@ -548,7 +558,7 @@ button[aria-label="Send a gift"] {
 
 /* Voice call user selected */
 .voiceUser__07f91.clickable__07f91.selected__07f91 .content__07f91{
-  background-color: hsl(199, 61%, 72%, 0.753) !important;
+  background-color: hsl(135, 100%, 89%, 0.753) !important;
 }
 
 /* Vocie call user hover*/
