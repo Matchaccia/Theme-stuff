@@ -481,7 +481,7 @@ button[aria-label="Send a gift"] {
 
 /* Streaming pill*/
 .live_a7acae {
-  background-color: hsl(199, 100%, 82%)!important;
+  background-color: hsl(303.75, 88.89%, 89.41%)!important;
 }
 
 /* Individual mute/deafen item  */
