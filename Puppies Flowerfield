@@ -10,33 +10,27 @@ Theme made by Zuzumi, fixed by LemonTarrt and customized by Matcha
  * @source https://github.com/Matchaccia/Theme-stuff/blob/main/Puppies%20Flowerfield
 
 /*---------------------------------------------------------------
-                  MAIN THEME DO NOT DELETE
+   Theme Import you can't disable this is the full theme dummy
 ---------------------------------------------------------------*/
-
 @import url('https://ShadowDevilsAvenged.github.io/SnippetsHere/Zuzumi-Main-Theme-Temp-Fix.css');
-
-/*---------------------------------------------------------------
-              Make it look Like Another Window
----------------------------------------------------------------*/
-
-@import url('https://ShadowDevilsAvenged.github.io/SnippetsHere/Zuzumi-Another-Window-Temp-Fix.css');
-
-/*---------------------------------------------------------------
-            Add transparency for background images
----------------------------------------------------------------*/
-
-@import url('https://ShadowDevilsAvenged.github.io/SnippetsHere/Zuzumi-Background-Image-Transparency-TempFix.css'); 
-
-/*---------------------------------------------------------------
-                        Reverse the position of Server list and members 
----------------------------------------------------------------*/
-
-@import url('https://shadowdevilsavenged.github.io/SnippetsHere/Zuzumi-Server-List-And-Members-Position-TempFix.css');
 
 /*---------------------------------------------------------------
                         Custom Settings
 ---------------------------------------------------------------*/
 
+/* Animate the background */
+@import url('https://ShadowDevilsAvenged.github.io/SnippetsHere/Zuzumi-Background-Animation-Temp-Fix.css');
+
+/* Add transparency for background images */
+@import url('https://ShadowDevilsAvenged.github.io/SnippetsHere/Zuzumi-Background-Image-Transparency-TempFix.css');
+
+/* Pop Effect */
+@import url("https://ShadowDevilsAvenged.github.io/SnippetsHere/Zuzumi-Pop-Temp-Fix.css");
+
+/* Reverse the position of Server list and members */
+@import url('https://ShadowDevilsAvenged.github.io/SnippetsHere/Zuzumi-Server-List-And-Members-Position-TempFix.css');
+
+/* Custom Settings windows */
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/SettingsModal/SettingsModal.css);
 :root {
 	--settingswidth: 	960;			/* default:	960px			(width of the settings modal, px)												*/
@@ -45,7 +39,7 @@ Theme made by Zuzumi, fixed by LemonTarrt and customized by Matcha
 }
 
 /*------------------------------------------------------
-                    CUSTOMISATION
+                    CUSTOMIZATION
 ------------------------------------------------------*/
 :root {
     /* The text that appear in top, leave it blank ("") if you dont want any */
@@ -63,11 +57,16 @@ Theme made by Zuzumi, fixed by LemonTarrt and customized by Matcha
     for me (even priv github uploads as their links are not perm).
 -------------------------------------------------------------------*/
     --bg-gradient1: #fcccf9;
-    --bg-gradient2: #DAFFDD;
+    --bg-gradient2: #E9EBF0;
     --bg-gradient3: #C7FFD5;
     --bg-image: url("https://raw.githubusercontent.com/Matchaccia/Theme-stuff/refs/heads/main/9bd89050c9b149dfda7bc46e9782fd04.gif");
     --opacity: 0; /* Value in numbers from 0 to 1, but there is a limit */
     --bg-blur: 4px; /* Value in px */
+	
+	/* HSL(Hue, Saturation, Lightness). This values will change the accent color (That blue color in most buttons) */
+    --H: 339; /* Value in numbers [339 is default] */
+    --S: 97%; /* Value in % [97% is default] */
+    --L: 71%; /* Value in % [71% is default] */
 
     /* HSL DarkTheme */
     --darkH: 0%; /* Value in numbers [0 is default] */
@@ -371,8 +370,8 @@ button[aria-label="Send a gift"] {
 
 /* new message bars with the date*/
 .content_c2654d, .content__908e2, .divider__908e2 {
-   --divider-color:  #8cc8e3 !important; 
-  background-color: #8cc8e3 !important;
+   --divider-color:  #DAFFDD !important; 
+  background-color: #DAFFDD !important;
   color: #ffffff !important;
 
 } 
