@@ -3,10 +3,10 @@ Theme made by Zuzumi, fixed by LemonTarrt and customized by Matcha
 ---------------------------------------------------------------*/
 
 /**
- * @name Puppies Flowerbed
+ * @name Puppies Flowerfield
  * @author Matcha
  * @version 1.0
- * @description Puppies Flowerbed, Theme made by Zuzumi, fixed by LemonTarrt and customized by Matcha.
+ * @description Puppies Flowerfield, Theme made by Zuzumi, fixed by LemonTarrt and customized by Matcha.
  * @source https://github.com/Matchaccia/Theme-stuff/blob/main/Puppies%20Flowerbed
 */
 
@@ -50,7 +50,7 @@ Theme made by Zuzumi, fixed by LemonTarrt and customized by Matcha
 ------------------------------------------------------*/
 :root {
     /* The text that appear in top, leave it blank ("") if you dont want any */
-    --custom-text: "‧₊˚༳❀‧₊˚. Puppies Flowerbed .˚₊‧❀༉˚₊‧";
+    --custom-text: "‧₊˚༳❀‧₊˚. Puppies Flowerfield .˚₊‧❀༉˚₊‧";
 
     /* General Colors */
     --border-color: #da4a60;
