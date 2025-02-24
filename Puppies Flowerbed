@@ -6,7 +6,7 @@ Theme made by Zuzumi, fixed by LemonTarrt and customized by Matcha
  * @name Puppies Flowerbed
  * @author Matcha
  * @version 1.0
- * @description Puppies Flowerbed
+ * @description Puppies Flowerbed, Theme made by Zuzumi, fixed by LemonTarrt and customized by Matcha.
  * @source https://github.com/Matchaccia/Theme-stuff/blob/main/Puppies%20Flowerbed
 */
 
@@ -600,4 +600,3 @@ button[aria-label="Send a gift"] {
 .reaction__23977.reactionMe__23977 {
   color: #d1a1b3;
 }
-
