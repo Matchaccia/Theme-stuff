@@ -3,11 +3,11 @@
   "filename": "light-blossom-1756299765934.json",
   "name": "Light Blossom Custom",
   "description": "A beautiful light blossom pink theme, made for people who love blossom but prefer a brighter interface.",
-  "version": "1",
+  "version": "0.1",
   "authors": [
     {
-      "name": "kMatcha",
-      "id": ""
+      "name": "Matcha",
+      "id": "423987609874726933"
     }
   ],
   "semanticColors": {
@@ -81,16 +81,16 @@
       "hsla(333, 70%, 85%, 0.5)"
     ],
     "BACKGROUND_PRIMARY": [
-      "#f9eaef"
+      "#f9eaefcc"
     ],
     "BACKGROUND_SECONDARY": [
-      "#fef6fb"
+      "#fef6fbcc"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#f9e6ef"
     ],
     "BACKGROUND_TERTIARY": [
-      "#f2d4e1"
+      "#f2d4e1cc"
     ],
     "BG_BASE_PRIMARY": [
       "#f9eaef"
@@ -363,21 +363,23 @@
     "WHITE_500": "#d44d76",
     "WHITE_630": "#b83a6b"
   },
-  "plus": {
-    "version": "0",
-    "iconPack": "",
-    "mentionLineColor": "#d44d76",
-    "customOverlays": true,
-    "icons": {
-      "trash": "#d44d76",
-      "TrashIcon": "#d44d76",
-      "TriangleExclamationPointIcon": "#d44d76",
-      "toast_copy_link": "#f8c8dc",
-      "toast_copy_message": "#ffffff",
-      "toast_image_saved": "#ffffff"
-    }
+"plus": {
+  "version": "0",
+  "iconPack": "",
+  "mentionLineColor": "#d44d76",
+  "customOverlays": true,
+
+  "background": {
+    "url": "https://raw.githubusercontent.com/Matchaccia/Theme-stuff/refs/heads/main/beautiful-anime-sakura-landscape-cartoon-scene_23-2151035212.png",
+    "alpha": 0.15
   },
-  "spec": 2,
-  "createdAt": "2025-08-27",
-  "previewUrl": "https://raw.githubusercontent.com/kmmiio99o/theme-marketplace/main/themes/approved/light-blossom-1756299765934-preview.png"
+
+  "icons": {
+    "trash": "#d44d76",
+    "TrashIcon": "#d44d76",
+    "TriangleExclamationPointIcon": "#d44d76",
+    "toast_copy_link": "#f8c8dc",
+    "toast_copy_message": "#ffffff",
+    "toast_image_saved": "#ffffff"
+  }
 }
