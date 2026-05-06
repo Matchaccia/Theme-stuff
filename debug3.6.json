@@ -21,7 +21,7 @@
       "#f9eaef"
     ],
     "BACKGROUND_ACCENT": [
-      "#f9e6ef"
+      "#ffb6d5"
     ],
     "BACKGROUND_FLOATING": [
       "#ffffff"
@@ -72,25 +72,25 @@
       "hsla(333, 70%, 90%, 0.3)"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "#f9e6ef"
+      "hsla(333, 70%, 85%, 0.5)"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "#f9e6ef"
+      "hsla(333, 70%, 90%, 0.3)"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "#f9e6ef"
+      "hsla(333, 70%, 85%, 0.5)"
     ],
     "BACKGROUND_PRIMARY": [
       "#f9eaef"
     ],
     "BACKGROUND_SECONDARY": [
-      "#fef6fb"
+      "#f9e6ef"
     ],
     "BACKGROUND_SECONDARY_ALT": [
       "#f9e6ef"
     ],
     "BACKGROUND_TERTIARY": [
-      "#f2d4e1"
+      "#f9e6ef"
     ],
     "BG_BASE_PRIMARY": [
       "#f9eaef"
@@ -120,7 +120,7 @@
       "#f9e6ef"
     ],
     "CARD_PRIMARY_BG": [
-      "#fef6fb"
+      "#f9e6ef"
     ],
     "CHANNEL_ICON": [
       "#b83a6b"
@@ -254,9 +254,9 @@
     "BRAND_400": "#d44d76",
     "BRAND_430": "#d44d76",
     "BRAND_460": "#d44d76",
-    "BRAND_500": "#d44d76",
+    "BRAND_500": "#f9e6ef",
     "BRAND_530": "#d44d76",
-    "BRAND_560": "#d44d76",
+    "BRAND_560": "#f9e6ef",
     "BRAND_600": "#d44d76",
     "BRAND_630": "#d44d76",
     "BRAND_660": "#d44d76",
@@ -287,7 +287,7 @@
     "PRIMARY_360": "#d44d76",
     "PRIMARY_400": "#d44d76",
     "PRIMARY_460": "#f9e6ef",
-    "PRIMARY_500": "#d44d76",
+    "PRIMARY_500": "#f9e6ef",
     "PRIMARY_530": "#d44d76",
     "PRIMARY_600": "#ffffff",
     "PRIMARY_630": "#fef6fb",
