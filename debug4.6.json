@@ -390,15 +390,6 @@
             }
   },
 
-    "icons": {
-      "trash": "#d44d76",
-      "TrashIcon": "#d44d76",
-      "TriangleExclamationPointIcon": "#d44d76",
-      "toast_copy_link": "#f8c8dc",
-      "toast_copy_message": "#ffffff",
-      "toast_image_saved": "#ffffff"
-    }
-  },
   "spec": 2,
 
       "background": {
