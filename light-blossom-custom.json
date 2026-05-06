@@ -11,6 +11,23 @@
     }
   ],
   "semanticColors": {
+
+    "INTERACTIVE_MUTED": ["#b83a6b"],
+"INTERACTIVE_NORMAL": ["#2b1b1b"],
+"INTERACTIVE_ACTIVE": ["#2b1b1b"],
+
+"BUTTON_SECONDARY_BACKGROUND": ["#ffffff"],
+"BUTTON_SECONDARY_TEXT": ["#2b1b1b"],
+
+"BUTTON_PRIMARY_BACKGROUND": ["#d44d76"],
+"BUTTON_PRIMARY_TEXT": ["#ffffff"],
+
+"HEADER_PRIMARY": ["#2b1b1b"],
+"HEADER_SECONDARY": ["#2b1b1b"],
+
+"TEXT_PRIMARY": ["#2b1b1b"],
+"TEXT_NORMAL": ["#2b1b1b"]
+
     "PANEL_BG": [
       "#f9eaef"
     ],
@@ -146,27 +163,54 @@
     "INTERACTIVE_NORMAL": [
       "#b83a6b"
     ],
-
     "MENTION_BACKGROUND": [
       "#ff4d9433"
     ],
     "MENTION_FOREGROUND": [
       "#ff4d94"
     ],
-
-    "STATUS_ONLINE": [
-      "#2b1b1b"
+    "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
+      "#f9e6ef"
     ],
-    "STATUS_IDLE": [
-      "#2b1b1b"
+    "REDESIGN_BUTTON_SECONDARY_BACKGROUND": [
+      "#f9e6ef"
     ],
-    "STATUS_DND": [
-      "#2b1b1b"
+    "REDESIGN_BUTTON_SECONDARY_BORDER": [
+      "hsla(333, 50%, 80%, 0.5)"
     ],
-    "STATUS_OFFLINE": [
-      "#2b1b1b"
+    "REDESIGN_BUTTON_DANGER_BACKGROUND": [
+      "#d44d76"
     ],
-
+    "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
+      "#b83a6b"
+    ],
+    "REDESIGN_CHANNEL_NAME_TEXT": [
+      "#d44d76"
+    ],
+    "REDESIGN_CHAT_INPUT_BACKGROUND": [
+      "#ffffff"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#f9e6ef"
+    ],
+    "STATUS_DANGER": [
+      "#d44d76"
+    ],
+    "STATUS_DANGER_BACKGROUND": [
+      "#d44d76"
+    ],
+    "STATUS_DANGER_TEXT": [
+      "#ffffff"
+    ],
+    "POLLS_NORMAL_FILL_HOVER": [
+      "#f9e6ef"
+    ],
+    "POLLS_NORMAL_IMAGE_BACKGROUND": [
+      "#f9e6ef"
+    ],
+    "POLLS_VICTOR_FILL": [
+      "#ffb6d580"
+    ],
     "TEXT_LINK": [
       "#d44d76"
     ],
@@ -182,7 +226,6 @@
     "TEXT_SECONDARY": [
       "#b83a6b"
     ],
-
     "BG_MOD_FAINT": [
       "hsla(333, 70%, 90%, 0.3)"
     ],
@@ -342,6 +385,7 @@
     "iconPack": "",
     "mentionLineColor": "#d44d76",
     "customOverlays": true,
+
     "icons": {
       "trash": "#d44d76",
       "TrashIcon": "#d44d76",
@@ -352,11 +396,12 @@
     }
   },
   "spec": 2,
-  "background": {
-    "blur": 0.0,
-    "url": "https://github.com/Matchaccia/Theme-stuff/blob/main/beautiful-anime-sakura-landscape-cartoon-scene_23-2151035212.png?raw=true",
-    "alpha": 0.45
-  },
+
+      "background": {
+		"blur": 0.0,
+		"url": "https://github.com/Matchaccia/Theme-stuff/blob/main/beautiful-anime-sakura-landscape-cartoon-scene_23-2151035212.png?raw=true",
+		"alpha": 0.45
+	},
   "createdAt": "2025-08-27",
   "previewUrl": "https://raw.githubusercontent.com/kmmiio99o/theme-marketplace/main/themes/approved/light-blossom-1756299765934-preview.png"
 }
