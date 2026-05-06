@@ -2,7 +2,7 @@
   "id": "light-blossom-custom",
   "filename": "light-blossom-custom.json",
   "name": "Light Blossom Custom",
-  "description": "A beautiful light blossom pink theme with custom background support.",
+  "description": "A beautiful light blossom pink theme, made for people who love blossom but prefer a brighter interface.",
   "version": "0",
   "authors": [
     {
@@ -11,60 +11,104 @@
     }
   ],
 
-  "background": {
-    "url": "https://raw.githubusercontent.com/Matchaccia/Theme-stuff/main/beautiful-anime-sakura-landscape-cartoon-scene_23-2151035212.png",
-    "alpha": 0.25,
-    "blur": 2
-  },
-
   "semanticColors": {
-    "PANEL_BG": ["#00000000"],
-    "CHAT_BACKGROUND": ["#00000000"],
-    "BACKGROUND_PRIMARY": ["#00000000"],
-    "BACKGROUND_SECONDARY": ["#00000000"],
-    "BACKGROUND_TERTIARY": ["#00000000"],
+    "PANEL_BG": ["#f9eaef"],
+    "ANDROID_RIPPLE": ["#f8c8dc"],
+    "CHAT_BACKGROUND": ["#f9eaef"],
+    "BACKGROUND_ACCENT": ["#ffb6d5"],
+    "BACKGROUND_FLOATING": ["#ffffff"],
+    "BACKGROUND_MENTIONED": ["#ffb6d533"],
+    "BACKGROUND_MENTIONED_HOVER": ["#ffb6d54d"],
+    "SCROLLBAR_THIN_THUMB": ["#f8c8dc"],
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
+    "SCROLLBAR_AUTO_THUMB": ["#f8c8dc"],
+    "SCROLLBAR_AUTO_TRACK": ["transparent"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#ffffff"],
 
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#fef6fb"],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": ["#f8c8dc"],
+
+    "CHANNELS_DEFAULT": ["#b83a6b"],
+
+    "BACKGROUND_MESSAGE_HOVER": ["hsla(333, 70%, 90%, 0.3)"],
+    "BACKGROUND_NESTED_FLOATING": ["#ffffff"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#f9eaef"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#fef6fb"],
+
+    "BACKGROUND_MODIFIER_ACCENT": ["hsla(333, 70%, 90%, 0.3)"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["hsla(333, 70%, 85%, 0.5)"],
+    "BACKGROUND_MODIFIER_HOVER": ["hsla(333, 70%, 90%, 0.3)"],
+    "BACKGROUND_MODIFIER_SELECTED": ["hsla(333, 70%, 85%, 0.5)"],
+
+    "BACKGROUND_PRIMARY": ["#f9eaef"],
+    "BACKGROUND_SECONDARY": ["#fef6fb"],
+    "BACKGROUND_SECONDARY_ALT": ["#f9e6ef"],
+    "BACKGROUND_TERTIARY": ["#f2d4e1cc"],
+
+    "BG_BASE_PRIMARY": ["#f9eaef"],
+    "BG_BACKDROP": ["#ffffffb2"],
+    "BG_BASE_SECONDARY": ["#ffffff"],
+    "BG_BASE_TERTIARY": ["#fef6fb"],
+
+    "HOME_BACKGROUND": ["#fef6fb"],
+
+    "BORDER_FAINT": ["hsla(333, 70%, 90%, 0.3)"],
+    "BORDER_STRONG": ["hsla(333, 50%, 80%, 0.5)"],
+    "BORDER_SUBTLE": ["hsla(333, 50%, 80%, 0.5)"],
+
+    "CARD_SECONDARY_BG": ["#f9e6ef"],
+    "CARD_PRIMARY_BG": ["#fef6fb"],
+
+    "CHANNEL_ICON": ["#b83a6b"],
+    "EMBED_BACKGROUND": ["#f9e6ef"],
+
+    "HEADER_PRIMARY": ["#d44d76"],
+    "HEADER_SECONDARY": ["#b83a6b"],
+
+    "INTERACTIVE_ACTIVE": ["#d44d76"],
+    "INTERACTIVE_HOVER": ["#d44d76"],
+    "INTERACTIVE_MUTED": ["#b83a6b66"],
+    "INTERACTIVE_NORMAL": ["#b83a6b"],
+
+    "MENTION_BACKGROUND": ["#ff4d9433"],
+    "MENTION_FOREGROUND": ["#ff4d94"],
+
+    "TEXT_LINK": ["#d44d76"],
+    "TEXT_MUTED": ["#b83a6b66"],
     "TEXT_NORMAL": ["#b83a6b"],
-    "TEXT_SECONDARY": ["#d28077"],
-    "TEXT_PRIMARY": ["#ffffff"],
-    "TEXT_MUTED": ["#ffffff"],
-
-    "INTERACTIVE_NORMAL": ["#ec275f"],
-    "INTERACTIVE_HOVER": ["#e7a56e"],
-    "INTERACTIVE_ACTIVE": ["#f25477"],
-    "INTERACTIVE_MUTED": ["#ec275f"],
-
-    "BACKGROUND_ACCENT": ["#78605e"],
-    "BACKGROUND_FLOATING": ["#78605e"],
-    "BACKGROUND_MOBILE_PRIMARY": ["#00000000"],
-    "BACKGROUND_MOBILE_SECONDARY": ["#00000000"],
-
-    "BACKGROUND_MODIFIER_HOVER": ["#e7a56e"],
-    "BACKGROUND_MODIFIER_SELECTED": ["#d28077"],
-
-    "TEXT_LINK": ["#d4e0ee"],
-    "CHANNEL_ICON": ["#d4e0ee"]
+    "TEXT_PRIMARY": ["#d44d76"],
+    "TEXT_SECONDARY": ["#b83a6b"]
   },
 
   "rawColors": {
-    "BRAND_500": "#ffa7a6",
-    "PRIMARY_500": "#78605e",
-    "WHITE_500": "#ffffff",
-    "BLACK_500": "#000000"
+    "BLUE_260": "#f8c8dc",
+    "BLUE_300": "#f8c8dc",
+    "BRAND_500": "#d44d76",
+    "PLUM_10": "#b83a6b",
+    "PRIMARY_500": "#d44d76",
+    "WHITE_500": "#d44d76",
+    "WHITE_630": "#b83a6b"
+  },
+
+  "background": {
+    "url": "https://raw.githubusercontent.com/Matchaccia/Theme-stuff/main/beautiful-anime-sakura-landscape-cartoon-scene_23-2151035212.png",
+    "alpha": 0.15,
+    "blur": 0
   },
 
   "plus": {
     "version": "0",
-    "customOverlays": true,
+    "iconPack": "",
     "mentionLineColor": "#d44d76",
+    "customOverlays": true,
 
     "icons": {
-      "add": "#d4e0ee",
-      "close": "#d4e0ee",
-      "settings": "#d4e0ee",
-      "trash": "#d44d76"
+      "trash": "#d44d76",
+      "TrashIcon": "#d44d76",
+      "TriangleExclamationPointIcon": "#d44d76",
+      "toast_copy_link": "#f8c8dc",
+      "toast_copy_message": "#ffffff",
+      "toast_image_saved": "#ffffff"
     }
-  },
-
-  "spec": 2
+  }
 }
