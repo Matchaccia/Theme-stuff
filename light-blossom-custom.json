@@ -11,15 +11,6 @@
     }
   ],
   "semanticColors": {
-"STATUS_ONLINE": ["#2b1b1b"],
-"STATUS_IDLE": ["#2b1b1b"],
-"STATUS_DND": ["#2b1b1b"],
-"STATUS_OFFLINE": ["#2b1b1b"],
-
-"TEXT_POSITIVE": ["#2b1b1b"],
-"TEXT_WARNING": ["#2b1b1b"],
-"TEXT_DANGER": ["#2b1b1b"],
-
     "PANEL_BG": [
       "#f9eaef"
     ],
@@ -150,10 +141,10 @@
       "#d44d76"
     ],
     "INTERACTIVE_MUTED": [
-      "#b83a6b66"
+      "#2b1b1b"
     ],
     "INTERACTIVE_NORMAL": [
-      "#b83a6b"
+      "#2b1b1b"
     ],
     "MENTION_BACKGROUND": [
       "#ff4d9433"
@@ -207,7 +198,7 @@
       "#d44d76"
     ],
     "TEXT_MUTED": [
-      "#b83a6b66"
+      "#2b1b1b"
     ],
     "TEXT_NORMAL": [
       "#b83a6b"
@@ -216,7 +207,7 @@
       "#d44d76"
     ],
     "TEXT_SECONDARY": [
-      "#b83a6b"
+      "#2b1b1b"
     ],
     "BG_MOD_FAINT": [
       "hsla(333, 70%, 90%, 0.3)"
