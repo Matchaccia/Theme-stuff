@@ -369,12 +369,12 @@
   "mentionLineColor": "#d44d76",
   "customOverlays": true,
 
-  "background": {
-    "url": "https://raw.githubusercontent.com/Matchaccia/Theme-stuff/refs/heads/main/beautiful-anime-sakura-landscape-cartoon-scene_23-2151035212.png",
-    "alpha": 0.15
-  },
+"background": {
+  "url": "https://raw.githubusercontent.com/Matchaccia/Theme-stuff/main/beautiful-anime-sakura-landscape-cartoon-scene_23-2151035212.png",
+  "alpha": 0.15
+},
 
-  "icons": {
+"icons": {
     "trash": "#d44d76",
     "TrashIcon": "#d44d76",
     "TriangleExclamationPointIcon": "#d44d76",
