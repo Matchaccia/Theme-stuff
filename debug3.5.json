@@ -21,7 +21,7 @@
       "#f9eaef"
     ],
     "BACKGROUND_ACCENT": [
-      "#ffb6d5"
+      "#f9e6ef"
     ],
     "BACKGROUND_FLOATING": [
       "#ffffff"
@@ -72,13 +72,13 @@
       "hsla(333, 70%, 90%, 0.3)"
     ],
     "BACKGROUND_MODIFIER_ACTIVE": [
-      "hsla(333, 70%, 85%, 0.5)"
+      "#f9e6ef"
     ],
     "BACKGROUND_MODIFIER_HOVER": [
-      "hsla(333, 70%, 90%, 0.3)"
+      "#f9e6ef"
     ],
     "BACKGROUND_MODIFIER_SELECTED": [
-      "hsla(333, 70%, 85%, 0.5)"
+      "#f9e6ef"
     ],
     "BACKGROUND_PRIMARY": [
       "#f9eaef"
@@ -152,7 +152,6 @@
     "MENTION_FOREGROUND": [
       "#ff4d94"
     ],
-
     "REDESIGN_BUTTON_SECONDARY_ALT_BACKGROUND": [
       "#f9e6ef"
     ],
@@ -160,9 +159,8 @@
       "#f9e6ef"
     ],
     "REDESIGN_BUTTON_SECONDARY_BORDER": [
-      "#f9e6ef"
+      "hsla(333, 50%, 80%, 0.5)"
     ],
-
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
       "#d44d76"
     ],
@@ -178,17 +176,15 @@
     "SPOILER_HIDDEN_BACKGROUND": [
       "#f9e6ef"
     ],
-
     "STATUS_DANGER": [
       "#d44d76"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#f9e6ef"
+      "#d44d76"
     ],
     "STATUS_DANGER_TEXT": [
       "#ffffff"
     ],
-
     "POLLS_NORMAL_FILL_HOVER": [
       "#f9e6ef"
     ],
@@ -383,11 +379,12 @@
     }
   },
   "spec": 2,
-  "background": {
-    "blur": 0.0,
-    "url": "https://github.com/Matchaccia/Theme-stuff/blob/main/beautiful-anime-sakura-landscape-cartoon-scene_23-2151035212.png?raw=true",
-    "alpha": 0.45
-  },
+
+      "background": {
+		"blur": 0.0,
+		"url": "https://github.com/Matchaccia/Theme-stuff/blob/main/beautiful-anime-sakura-landscape-cartoon-scene_23-2151035212.png?raw=true",
+		"alpha": 0.45
+	},
   "createdAt": "2025-08-27",
   "previewUrl": "https://raw.githubusercontent.com/kmmiio99o/theme-marketplace/main/themes/approved/light-blossom-1756299765934-preview.png"
 }
