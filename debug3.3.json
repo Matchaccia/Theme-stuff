@@ -10,22 +10,16 @@
       "id": "423987609874726933"
     }
   ],
-
   "semanticColors": {
-
-    /* =========================
-       FIX: FORCE ALL TEXT TO BE REAL VISIBILITY COLORS
-       (this is what stops grey text in profile/status)
-       ========================= */
-
     "TEXT_NORMAL": ["#ffffff"],
     "TEXT_PRIMARY": ["#ffffff"],
     "TEXT_SECONDARY": ["#fef6fb"],
     "TEXT_MUTED": ["#ffffff"],
 
     "INTERACTIVE_MUTED": ["#b83a6b"],
-    "INTERACTIVE_NORMAL": ["#2b1b1b"],
-    "INTERACTIVE_ACTIVE": ["#2b1b1b"],
+    "INTERACTIVE_NORMAL": ["#ffffff"],
+    "INTERACTIVE_ACTIVE": ["#ffffff"],
+    "INTERACTIVE_HOVER": ["#ffffff"],
 
     "BUTTON_SECONDARY_BACKGROUND": ["#ffffff"],
     "BUTTON_SECONDARY_TEXT": ["#2b1b1b"],
@@ -33,12 +27,8 @@
     "BUTTON_PRIMARY_BACKGROUND": ["#d44d76"],
     "BUTTON_PRIMARY_TEXT": ["#ffffff"],
 
-    "HEADER_PRIMARY": ["#2b1b1b"],
-    "HEADER_SECONDARY": ["#2b1b1b"],
-
-    /* =========================
-       IMPORTANT FIX AREA (your issue)
-       ========================= */
+    "HEADER_PRIMARY": ["#ffffff"],
+    "HEADER_SECONDARY": ["#ffffff"],
 
     "PROFILE_TEXT_PRIMARY": ["#ffffff"],
     "PROFILE_TEXT_SECONDARY": ["#ffffff"],
@@ -46,13 +36,10 @@
     "ACTIVITY_TEXT": ["#ffffff"],
     "STATUS_TEXT": ["#ffffff"],
 
-    /* =========================
-       BACKGROUNDS (UNCHANGED STYLE)
-       ========================= */
-
     "PANEL_BG": ["#f9eaef"],
     "ANDROID_RIPPLE": ["#f8c8dc"],
     "CHAT_BACKGROUND": ["#f9eaef"],
+
     "BACKGROUND_ACCENT": ["#ffb6d5"],
     "BACKGROUND_FLOATING": ["#ffffff"],
     "BACKGROUND_MENTIONED": ["#ffb6d533"],
@@ -69,6 +56,7 @@
     "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": ["#f8c8dc"],
 
     "CHANNELS_DEFAULT": ["#b83a6b"],
+
     "BACKGROUND_MESSAGE_HOVER": ["#ffb6d533"],
     "BACKGROUND_NESTED_FLOATING": ["#ffffff"],
 
@@ -106,8 +94,7 @@
     "MENTION_BACKGROUND": ["#ff4d9433"],
     "MENTION_FOREGROUND": ["#ff4d94"],
 
-    "TEXT_LINK": ["#d44d76"],
-    "TEXT_MUTED": ["#b83a6b66"]
+    "TEXT_LINK": ["#d44d76"]
   },
 
   "rawColors": {
@@ -168,7 +155,6 @@
     "iconPack": "",
     "mentionLineColor": "#d44d76",
     "customOverlays": true,
-
     "icons": {
       "trash": "#d44d76",
       "TrashIcon": "#d44d76",
