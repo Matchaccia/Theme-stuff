@@ -1,13 +1,13 @@
 {
   "id": "light-blossom-1756299765934",
   "filename": "light-blossom-1756299765934.json",
-  "name": "Light Blossom",
+  "name": "Light Blossom Custom",
   "description": "A beautiful light blossom pink theme, made for people who love blossom but prefer a brighter interface.",
   "version": "1",
   "authors": [
     {
-      "name": "kmmiio99o.dev",
-      "id": "879393496627306587"
+      "name": "kMatcha",
+      "id": ""
     }
   ],
   "semanticColors": {
