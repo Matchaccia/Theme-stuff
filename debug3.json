@@ -1,0 +1,105 @@
+{
+  "id": "light-blossom-custom",
+  "filename": "light-blossom-custom.json",
+  "name": "Light Blossom Custom (DEBUG)",
+  "description": "Debug version with high contrast profile/status text visibility testing.",
+  "version": "0",
+  "authors": [
+    {
+      "name": "Matchaccia",
+      "id": "423987609874726933"
+    }
+  ],
+
+  "semanticColors": {
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_SECONDARY": ["#00ff00"],
+    "TEXT_PRIMARY": ["#ffffff"],
+    "TEXT_MUTED": ["#ff0000"],
+    "TEXT_LINK": ["#00ffff"],
+
+    "INTERACTIVE_NORMAL": ["#ffffff"],
+    "INTERACTIVE_HOVER": ["#ff0000"],
+    "INTERACTIVE_ACTIVE": ["#00ff00"],
+    "INTERACTIVE_MUTED": ["#ff00ff"],
+
+    "CHANNELS_DEFAULT": ["#ffffff"],
+    "CHANNEL_ICON": ["#ffffff"],
+
+    "BACKGROUND_PRIMARY": ["#000000"],
+    "BACKGROUND_SECONDARY": ["#111111"],
+    "BACKGROUND_TERTIARY": ["#222222"],
+    "BACKGROUND_ACCENT": ["#333333"],
+    "BACKGROUND_FLOATING": ["#000000"],
+
+    "BG_BASE_PRIMARY": ["#000000"],
+    "BG_BASE_SECONDARY": ["#111111"],
+    "BG_BASE_TERTIARY": ["#222222"],
+
+    "BG_BACKDROP": ["#ffffff22"],
+
+    "PROFILE_TEXT_PRIMARY": ["#ffffff"],
+    "PROFILE_TEXT_SECONDARY": ["#00ff00"],
+    "USER_PROFILE_TEXT": ["#ff0000"],
+    "ACTIVITY_TEXT": ["#00ff00"],
+    "STATUS_TEXT": ["#ff0000"],
+
+    "BACKGROUND_MENTIONED": ["#ff000066"],
+    "BACKGROUND_MENTIONED_HOVER": ["#ff000088"],
+
+    "BACKGROUND_MESSAGE_HOVER": ["#333333"],
+    "BACKGROUND_MODIFIER_HOVER": ["#444444"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#555555"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#666666"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#777777"],
+
+    "BORDER_FAINT": ["#ffffff"],
+    "BORDER_STRONG": ["#ffffff"],
+    "BORDER_SUBTLE": ["#ffffff"],
+
+    "HEADER_PRIMARY": ["#ffffff"],
+    "HEADER_SECONDARY": ["#00ff00"]
+  },
+
+  "rawColors": {
+    "BRAND_500": "#ff0000",
+    "PRIMARY_500": "#ffffff",
+    "RED_500": "#ff0000",
+    "GREEN_500": "#00ff00",
+    "BLUE_500": "#0000ff",
+    "BLACK_500": "#000000",
+    "WHITE_500": "#ffffff",
+    "PLUM_15": "#ff0000"
+  },
+
+  "plus": {
+    "version": "0",
+    "customOverlays": true,
+    "icons": {
+      "add": "#ffffff",
+      "close": "#ffffff",
+      "settings": "#ffffff",
+      "ic_settings": "#ffffff",
+      "ic_gear": "#ffffff",
+      "StatusOnline": "#00ff00",
+      "StatusIdle": "#ffff00",
+      "StatusDND": "#ff0000",
+      "StatusOffline": "#888888"
+    }
+  },
+
+  "fonts": {
+    "ggsans-Normal": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Regular.ttf",
+    "ggsans-Bold": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Bold.ttf",
+    "NotoSans-Normal": "https://github.com/adobe-fonts/source-code-pro/raw/refs/heads/release/TTF/SourceCodePro-Regular.ttf"
+  },
+
+  "background": {
+    "blur": 0.0,
+    "url": "https://github.com/Matchaccia/Theme-stuff/blob/main/beautiful-anime-sakura-landscape-cartoon-scene_23-2151035212.png?raw=true",
+    "alpha": 0.45
+  },
+
+  "spec": 2,
+  "createdAt": "2025-08-27"
+}
