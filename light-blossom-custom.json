@@ -11,6 +11,15 @@
     }
   ],
   "semanticColors": {
+"STATUS_ONLINE": ["#2b1b1b"],
+"STATUS_IDLE": ["#2b1b1b"],
+"STATUS_DND": ["#2b1b1b"],
+"STATUS_OFFLINE": ["#2b1b1b"],
+
+"TEXT_POSITIVE": ["#2b1b1b"],
+"TEXT_WARNING": ["#2b1b1b"],
+"TEXT_DANGER": ["#2b1b1b"],
+
     "PANEL_BG": [
       "#f9eaef"
     ],
