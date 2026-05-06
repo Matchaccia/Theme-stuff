@@ -1,0 +1,185 @@
+{
+  "id": "light-blossom-custom",
+  "filename": "light-blossom-custom.json",
+  "name": "Light Blossom Custom (DEBUG FULL)",
+  "description": "Debug version to test profile/status text visibility.",
+  "version": "0",
+  "authors": [
+    {
+      "name": "Matchaccia",
+      "id": "423987609874726933"
+    }
+  ],
+
+  "semanticColors": {
+
+    "INTERACTIVE_MUTED": ["#ff0000"],
+    "INTERACTIVE_NORMAL": ["#ffffff"],
+    "INTERACTIVE_ACTIVE": ["#00ff00"],
+
+    "BUTTON_SECONDARY_BACKGROUND": ["#ffffff"],
+    "BUTTON_SECONDARY_TEXT": ["#000000"],
+
+    "BUTTON_PRIMARY_BACKGROUND": ["#ff0000"],
+    "BUTTON_PRIMARY_TEXT": ["#ffffff"],
+
+    "HEADER_PRIMARY": ["#ffffff"],
+    "HEADER_SECONDARY": ["#ffffff"],
+
+    "TEXT_PRIMARY": ["#ffffff"],
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_SECONDARY": ["#00ff00"],
+    "TEXT_MUTED": ["#ff0000"],
+    "TEXT_LINK": ["#00ffff"],
+
+    "PROFILE_TEXT_PRIMARY": ["#ffffff"],
+    "PROFILE_TEXT_SECONDARY": ["#00ff00"],
+    "USER_PROFILE_TEXT": ["#ffffff"],
+    "ACTIVITY_TEXT": ["#00ff00"],
+    "STATUS_TEXT": ["#ff0000"],
+
+    "PANEL_BG": ["#000000"],
+    "ANDROID_RIPPLE": ["#ff0000"],
+    "CHAT_BACKGROUND": ["#000000"],
+    "BACKGROUND_ACCENT": ["#ff00ff"],
+    "BACKGROUND_FLOATING": ["#111111"],
+
+    "BACKGROUND_MENTIONED": ["#ff0000"],
+    "BACKGROUND_MENTIONED_HOVER": ["#ff0000"],
+
+    "SCROLLBAR_THIN_THUMB": ["#ff0000"],
+    "SCROLLBAR_THIN_TRACK": ["#ffffff"],
+    "SCROLLBAR_AUTO_THUMB": ["#00ff00"],
+    "SCROLLBAR_AUTO_TRACK": ["#ffffff"],
+
+    "CHANNELTEXTAREA_BACKGROUND": ["#ffffff"],
+
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": ["#000000"],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND_PRESSED": ["#ff0000"],
+
+    "CHANNELS_DEFAULT": ["#ffffff"],
+    "CHANNEL_ICON": ["#ffffff"],
+
+    "BACKGROUND_MESSAGE_HOVER": ["#333333"],
+    "BACKGROUND_NESTED_FLOATING": ["#111111"],
+
+    "BACKGROUND_MOBILE_PRIMARY": ["#000000"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#111111"],
+
+    "BACKGROUND_MODIFIER_ACCENT": ["#ff0000"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#ff0000"],
+    "BACKGROUND_MODIFIER_HOVER": ["#ff0000"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#ff0000"],
+
+    "BACKGROUND_PRIMARY": ["#000000"],
+    "BACKGROUND_SECONDARY": ["#111111"],
+    "BACKGROUND_SECONDARY_ALT": ["#222222"],
+    "BACKGROUND_TERTIARY": ["#333333"],
+
+    "BG_BASE_PRIMARY": ["#000000"],
+    "BG_BACKDROP": ["#ffffff22"],
+    "BG_BASE_SECONDARY": ["#111111"],
+    "BG_BASE_TERTIARY": ["#222222"],
+
+    "HOME_BACKGROUND": ["#000000"],
+
+    "BORDER_FAINT": ["#ff0000"],
+    "BORDER_STRONG": ["#ff0000"],
+    "BORDER_SUBTLE": ["#ff0000"],
+
+    "CARD_SECONDARY_BG": ["#000000"],
+    "CARD_PRIMARY_BG": ["#111111"],
+
+    "EMBED_BACKGROUND": ["#000000"],
+
+    "MENTION_BACKGROUND": ["#ff0000"],
+    "MENTION_FOREGROUND": ["#ffffff"],
+
+    "REDESIGN_CHAT_INPUT_BACKGROUND": ["#ffffff"],
+
+    "TEXT_LINK": ["#00ffff"],
+    "TEXT_MUTED": ["#ff0000"],
+    "TEXT_NORMAL": ["#ffffff"],
+    "TEXT_SECONDARY": ["#ffffff"]
+  },
+
+  "rawColors": {
+
+    "BLUE_260": "#ff0000",
+    "BLUE_300": "#ff0000",
+    "BLUE_330": "#ff0000",
+    "BLUE_345": "#ff0000",
+    "BLUE_360": "#ff0000",
+    "BLUE_400": "#ff0000",
+    "BLUE_430": "#ff0000",
+    "BLUE_460": "#ff0000",
+    "BLUE_500": "#ff0000",
+    "BLUE_530": "#ff0000",
+    "BLUE_560": "#ff0000",
+    "BLUE_600": "#ff0000",
+    "BLUE_630": "#ff0000",
+    "BLUE_660": "#ff0000",
+    "BLUE_700": "#ff0000",
+
+    "BLACK_500": "#000000",
+
+    "BRAND_200": "#ff0000",
+    "BRAND_260": "#ff0000",
+    "BRAND_300": "#ff0000",
+    "BRAND_330": "#ff0000",
+    "BRAND_345": "#ff0000",
+    "BRAND_360": "#ff0000",
+    "BRAND_400": "#ff0000",
+    "BRAND_430": "#ff0000",
+    "BRAND_460": "#ff0000",
+    "BRAND_500": "#ff0000",
+    "BRAND_530": "#ff0000",
+    "BRAND_560": "#ff0000",
+    "BRAND_600": "#ff0000",
+    "BRAND_630": "#ff0000",
+    "BRAND_660": "#ff0000",
+    "BRAND_700": "#ff0000",
+    "BRAND_730": "#ff0000",
+
+    "PLUM_1": "#ff0000",
+    "PLUM_10": "#ff0000",
+    "PLUM_11": "#ff0000",
+    "PLUM_13": "#ff0000",
+    "PLUM_15": "#ff0000",
+    "PLUM_16": "#ffffff",
+    "PLUM_17": "#ffffff",
+    "PLUM_18": "#ffffff",
+    "PLUM_19": "#ffffff",
+    "PLUM_20": "#ffffff",
+    "PLUM_21": "#ffffff",
+    "PLUM_22": "#ffffff",
+    "PLUM_24": "#ffffff",
+    "PLUM_25": "#ffffff"
+  },
+
+  "plus": {
+    "version": "0",
+    "iconPack": "",
+    "customOverlays": true,
+
+    "icons": {
+      "trash": "#ff0000",
+      "TrashIcon": "#ff0000",
+      "TriangleExclamationPointIcon": "#ff0000",
+      "toast_copy_link": "#ffffff",
+      "toast_copy_message": "#ffffff",
+      "toast_image_saved": "#ffffff"
+    }
+  },
+
+  "spec": 2,
+
+  "background": {
+    "blur": 0.0,
+    "url": "https://github.com/Matchaccia/Theme-stuff/blob/main/beautiful-anime-sakura-landscape-cartoon-scene_23-2151035212.png?raw=true",
+    "alpha": 1.0
+  },
+
+  "createdAt": "2025-08-27",
+  "previewUrl": "https://raw.githubusercontent.com/kmmiio99o/theme-marketplace/main/themes/approved/light-blossom-1756299765934-preview.png"
+}
