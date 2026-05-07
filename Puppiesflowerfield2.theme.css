@@ -15,7 +15,7 @@
 ------------------------------------------------------*/
 :root {
     /* The text that appear in top, leave it blank ("") if you dont want any */
-    --custom-text: "‧₊˚༳❀‧₊˚. Puppies Flowerfield .˚₊‧❀༉˚₊‧"";
+    --custom-text: "‧₊˚༳❀‧₊˚. Puppies Flowerfield .˚₊‧❀༉˚₊‧";
 
     /* General Colors */
     --border-color: #da4a60;
@@ -24,12 +24,12 @@
     --name-bg: #d95b72;
 
     /* Background Colors & BG Image */
-    --bg-gradient1: #e297b2;
-    --bg-gradient2: #c0b4d5;
-    --bg-gradient3: #54b5de;
-    --bg-image: url("https://user-images.githubusercontent.com/79029257/132885766-58a204cf-4941-4143-a3d2-7d9eec948c2c.png"); /* Write the image url, example url("your url") [none is default]*/
+    --bg-gradient1: #fcccf9;
+    --bg-gradient2: #C7FFD5;
+    --bg-gradient3: #E9EBF0;
+    --bg-image: url("https://raw.githubusercontent.com/Matchaccia/Theme-stuff/refs/heads/main/9bd89050c9b149dfda7bc46e9782fd04.gif"); /* Write the image url, example url("your url") [none is default]*/
     --bg-opacity: 0.3; /* Value in numbers from 0.0 to 1.0 */
-    --bg-blur: 0px; /* Value in px */
+    --bg-blur: 4px; /* Value in px */
 
     /* HSL(Hue, Saturation, Lightness). This values will change the accent color (That blue color in most buttons) */
     --H: 339; /* Value in numbers [339 is default] */
