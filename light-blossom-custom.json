@@ -245,7 +245,7 @@
     "BLUE_660": "#f8c8dc",
     "BLUE_700": "#f8c8dc",
     "BLACK_500": "#ffffffb2",
-    "BRAND_200": "#f9e6ef",
+    "BRAND_200": "#d44d76",
     "BRAND_260": "#d44d76",
     "BRAND_300": "#d44d76",
     "BRAND_330": "#d44d76",
@@ -254,9 +254,9 @@
     "BRAND_400": "#d44d76",
     "BRAND_430": "#d44d76",
     "BRAND_460": "#d44d76",
-    "BRAND_500": "#f9e6ef",
+    "BRAND_500": "#d44d76",
     "BRAND_530": "#d44d76",
-    "BRAND_560": "#f9e6ef",
+    "BRAND_560": "#d44d76",
     "BRAND_600": "#d44d76",
     "BRAND_630": "#d44d76",
     "BRAND_660": "#d44d76",
@@ -287,7 +287,7 @@
     "PRIMARY_360": "#d44d76",
     "PRIMARY_400": "#d44d76",
     "PRIMARY_460": "#f9e6ef",
-    "PRIMARY_500": "#f9e6ef",
+    "PRIMARY_500": "#d44d76",
     "PRIMARY_530": "#d44d76",
     "PRIMARY_600": "#000000",
     "PRIMARY_630": "#fef6fb",
@@ -368,16 +368,28 @@
     "iconPack": "",
     "mentionLineColor": "#d44d76",
     "customOverlays": true,
-
-    "icons": {
-      "trash": "#d44d76",
-      "TrashIcon": "#d44d76",
-      "TriangleExclamationPointIcon": "#d44d76",
-      "toast_copy_link": "#f8c8dc",
-      "toast_copy_message": "#ffffff",
-      "toast_image_saved": "#ffffff"
-    }
+	       "iconpack": "solarduotone",
+       "mentionLineColor": "#97B9F4",
+       "customOverlays": true,
+       "icons":{
+          "ic_radio_circle_checked": "#B5BDFF",
+          "ic_radio_circle_checked__overlay": "#FFFFFF",
+          "ic_radio_square_24px": "#B5BDFF",
+          "ic_radio_square_checked_24px": "#B5BDFF",
+          "ic_radio_square_checked_24px__overlay": "#FFFFFF",
+          "ic_rich_presence_dark_12px": "#929ce7",
+          "ic_selection_checked_24px": "#B5BDFF",
+          "ic_selection_checked_24px__overlay": "#FFFFFF",
+          "ic_star_filled": "#97B9F4",
+          "img_guild_folder": "#B5BDFF",
+          "StatusMobileOnline": "#8EAEE5",
+          "StatusOnline": "#8EAEE5",
+          "StatusIdle": "#87A6DB",
+          "StatusDND": "#97B9F4",
+          "StatusOffline": "#bebee3"
+            }
   },
+
   "spec": 2,
 
       "background": {
