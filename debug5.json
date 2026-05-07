@@ -369,8 +369,6 @@
     "mentionLineColor": "#d44d76",
     "customOverlays": true,
 	       "iconpack": "solarduotone",
-       "mentionLineColor": "#97B9F4",
-       "customOverlays": true,
        "icons":{
           "ic_radio_circle_checked": "#B5BDFF",
           "ic_radio_circle_checked__overlay": "#FFFFFF",
