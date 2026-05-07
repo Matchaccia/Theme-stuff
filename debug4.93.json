@@ -287,7 +287,7 @@
     "PRIMARY_360": "#d44d76",
     "PRIMARY_400": "#d44d76",
     "PRIMARY_460": "#f9e6ef",
-    "PRIMARY_500": "#d44d76",
+    "PRIMARY_500": "#f9e6ef",
     "PRIMARY_530": "#d44d76",
     "PRIMARY_600": "#000000",
     "PRIMARY_630": "#fef6fb",
@@ -369,6 +369,8 @@
     "mentionLineColor": "#d44d76",
     "customOverlays": true,
 	       "iconpack": "solarduotone",
+       "mentionLineColor": "#97B9F4",
+       "customOverlays": true,
        "icons":{
           "ic_radio_circle_checked": "#B5BDFF",
           "ic_radio_circle_checked__overlay": "#FFFFFF",
